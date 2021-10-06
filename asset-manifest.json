@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/miotodo/static/css/main.0e1ab5d4.chunk.css",
+    "main.js": "/miotodo/static/js/main.b8dfa528.chunk.js",
+    "main.js.map": "/miotodo/static/js/main.b8dfa528.chunk.js.map",
+    "runtime-main.js": "/miotodo/static/js/runtime-main.6febc53d.js",
+    "runtime-main.js.map": "/miotodo/static/js/runtime-main.6febc53d.js.map",
+    "static/js/2.bec5e36d.chunk.js": "/miotodo/static/js/2.bec5e36d.chunk.js",
+    "static/js/2.bec5e36d.chunk.js.map": "/miotodo/static/js/2.bec5e36d.chunk.js.map",
+    "index.html": "/miotodo/index.html",
+    "static/css/main.0e1ab5d4.chunk.css.map": "/miotodo/static/css/main.0e1ab5d4.chunk.css.map",
+    "static/js/2.bec5e36d.chunk.js.LICENSE.txt": "/miotodo/static/js/2.bec5e36d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6febc53d.js",
+    "static/js/2.bec5e36d.chunk.js",
+    "static/css/main.0e1ab5d4.chunk.css",
+    "static/js/main.b8dfa528.chunk.js"
+  ]
+}
